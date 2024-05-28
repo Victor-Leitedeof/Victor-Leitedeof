@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="![github-header-image](https://github.com/Victor-Leitedeof/Victor-Leitedeof/assets/160979766/07020f28-4e32-456e-9bd9-c10a1c54995a)
+<img width=100% bottom=50px src="https://github.com/Victor-Leitedeof/Victor-Leitedeof/assets/160979766/07020f28-4e32-456e-9bd9-c10a1c54995a)
 "/>
 <br>
 <br> 
