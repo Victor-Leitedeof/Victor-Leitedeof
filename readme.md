@@ -1,11 +1,11 @@
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Victor!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Victor!;" />
 </h1>
 
 
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,,vscode,github,figma,tailwind,git,typescript" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,,vscode,github" />
 </div>
 
 <h2 align="center" >⚡Stats⚡</h2>
