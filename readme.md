@@ -1,6 +1,6 @@
  <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=50&duration=4000&pause=1000&color=56008c&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Victor;I'm+24+years+;I'm+from+Brazil;Welcome)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=50&duration=4000&pause=1000&color=d6f6fb&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Victor;I'm+24+years+;I'm+from+Brazil;Welcome)](https://git.io/typing-svg)
 
 ## My Skills
 
