@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=50&duration=4000&pause=1000&color=d6f6fb&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Victor;I'm+24+years+;I'm+from+Brazil;Welcome)](https://git.io/typing-svg)
 
-## My Skills
+### My Skills
+
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 #### Main Stack:
 
@@ -29,4 +31,5 @@
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
