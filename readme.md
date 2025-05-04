@@ -1,9 +1,9 @@
- <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+ <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,23&height=180&section=header&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=50&duration=4000&pause=1000&color=d6f6fb&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Victor;I'm+24+years+;I'm+from+Brazil;Welcome)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=50&duration=4000&pause=1000&color=d6f6fb&center=true&vCenter=true&random=false&width=1000&lines=Welcome;Hello%2C+my+name+is+Victor;)](https://git.io/typing-svg)
 
 ### My Skills
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -28,5 +28,5 @@
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,23&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
